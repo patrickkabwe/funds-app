@@ -1,0 +1,18 @@
+{
+  "home": "home",
+  "profile": "profile",
+  "account": "account",
+  "settings": "settings",
+  "login": "login",
+  "register": "register",
+  "forgotPassword": "forgot password",
+  "sendVerificationCodePassword": "send code password",
+  "newPassword": "new password",
+  "passwordchange": "passwordchange",
+  "options": "options",
+  "logout": "logout",
+  "addExpense": "add-expense",
+  "bottom": "bottom",
+  "statistics": "statistics",
+  "wallent": "wallent"
+}

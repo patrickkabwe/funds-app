@@ -1,0 +1,25 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+npx --no -- commitlint --edit ${1}
+
+# branch_name="$(git rev-parse --abbrev-ref HEAD)"
+
+# message="❌ You are trying to submit a branch named $branch_name, which is not allowed. Please create a branch named '<your-feature-branch-name>' instead."
+
+# if [ "$branch_name" = "main" ]
+# then
+#   echo "$message"
+#   exit 1
+# fi
+
+# if [ "$branch_name" = "development" ]
+# then
+#   echo "$message"
+#   exit 1
+# fi
+
+# echo "✅ All Good! 🎉"
+# echo "✅ You can push your changes to GitHub... 🚀"
+# git add .
+# exit 0

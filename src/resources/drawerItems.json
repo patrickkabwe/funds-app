@@ -1,0 +1,38 @@
+[
+  {
+    "name": "home",
+    "icon": "home-outline"
+  },
+  {
+    "name": "about us",
+    "icon": "ios-information-circle-outline"
+  },
+  {
+    "name": "appointments",
+    "icon": "calendar-outline"
+  },
+  {
+    "name": "register vehicle",
+    "icon": "car-outline"
+  },
+  {
+    "name": "profile",
+    "icon": "user"
+  },
+  {
+    "name": "settings",
+    "icon": "ios-settings-outline"
+  },
+  {
+    "name": "reviews",
+    "icon": "account-star-outline"
+  },
+  {
+    "name": "give feedback",
+    "icon": "pencil"
+  },
+  {
+    "name": "sign out",
+    "icon": "sign-out"
+  }
+]

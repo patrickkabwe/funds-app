@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "category": "Food",
+    "description": "Bought Nshima and beef",
+    "amount": "20",
+    "iconType": "fastfood",
+    "date": "2022-04-28"
+  },
+  {
+    "id": "2",
+    "category": "Travel",
+    "description": "Went to town to collect a xbox console",
+    "amount": "50",
+    "iconType": "flight",
+    "date": "2022-04-20"
+  },
+  {
+    "id": "3",
+    "category": "Car Service",
+    "description": "Bought a gearbox",
+    "amount": "9000",
+    "iconType": "miscellaneous-services",
+    "date": "2022-04-02"
+  }
+]
